@@ -1,0 +1,2 @@
+cript for restarting http service
+sudo service apache2 restart
