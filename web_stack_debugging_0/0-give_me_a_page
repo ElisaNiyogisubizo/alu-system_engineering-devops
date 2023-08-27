@@ -1,2 +1,3 @@
-cript for restarting http service
+#!/usr/bin/env bash                                                             
+#start apache2 inside docker                                                     
 sudo service apache2 restart
